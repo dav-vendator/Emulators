@@ -48,6 +48,7 @@ After building, use the following command to run the Chip-8 emulator:
 
 ## Roadmap
 - [x] Implement Chip-8 emulator.
+- [ ] Make Chip-8 Class Dynamic and add Super Chip-8 functionality
 - [ ] Develop MOS 6502 emulator.
 - [ ] Add comprehensive test cases for both emulators.
 - [ ] Enhance documentation with diagrams and examples.
